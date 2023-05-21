@@ -8,3 +8,4 @@ sqlparse==0.4.4
 django-cors-headers
 django-allauth
 dj-rest-auth
+drf-spectacular
